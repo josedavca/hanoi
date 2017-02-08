@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+﻿#!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 
 from __future__ import print_function
@@ -50,4 +50,5 @@ if __name__ == '__main__':
     bars[0].extend(list(range(DISKS))[::-1])
     show()
 
+tiki
     move_disks(0, 2, DISKS)
